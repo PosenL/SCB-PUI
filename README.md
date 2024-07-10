@@ -1,5 +1,6 @@
 The program is use to roll out all applicable supply paths via the produced item to consumed item under the predefined plant.
-For example:
+
+
 If the target supply chain is from item A (consumed) to item F (produced) at plant TH70 to be rolled out via PUI table, the program will generate:
   1. **Input - JDA Source**: the input JDA table (where to target produced/counsumed item, the plant, and if the flow is multi-chip flow or not)
   2. **Initial - Rolling Supply Chain**: List down all paths if the consumed item can fully connects to the produced item. Will not be displayed if there is no connected structure between the produced and consumed item.
