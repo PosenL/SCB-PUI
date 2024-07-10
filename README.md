@@ -1,4 +1,4 @@
-The program is use to roll out all applicable supply paths via the produced item to consumed item under the predefined plant.
+The program is aimed at rolling out all applicable supply paths through the PUI reference table via the produced item to consumed item under the predefined plant.
 
 
 If the target supply chain is from item A (consumed) to item F (produced) at plant TH70 to be rolled out via PUI table, the program will generate:
